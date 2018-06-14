@@ -11,3 +11,4 @@ if failed unix /opt/apps//global-vehicle-services/bin/GlobalVehicleServices then
 ',
   }
 }
+This is to auto restat monit
